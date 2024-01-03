@@ -1,0 +1,17 @@
+2023-12-29 15:57:15,075 [main] INFO search - chrome browser launched
+2023-12-29 16:07:14,984 [main] INFO search - chrome browser launched
+2023-12-29 16:07:15,139 [main] INFO search - chrome browser maximized
+2023-12-29 16:08:05,181 [main] INFO search - chrome browser launched
+2023-12-29 16:08:05,338 [main] INFO search - chrome browser maximized
+2023-12-29 16:08:12,010 [main] INFO search - navigate to google application
+2023-12-29 16:23:24,915 [main] INFO search - chrome browser launched
+2023-12-29 16:23:25,054 [main] INFO search - chrome browser maximized
+2023-12-29 16:23:27,990 [main] INFO search - navigate to google application
+2023-12-29 16:23:28,307 [main] INFO search - enter text selenium in google search bar
+2023-12-29 16:23:28,690 [main] INFO search - enter button pressed
+2023-12-29 16:25:42,334 [main] INFO search - chrome browser launched
+2023-12-29 16:25:42,508 [main] INFO search - chrome browser maximized
+2023-12-29 16:25:45,880 [main] INFO search - navigate to google application
+2023-12-29 16:25:45,989 [main] INFO search - enter text selenium in google search bar
+2023-12-29 16:25:46,288 [main] INFO search - enter button pressed
+2023-12-29 16:25:49,300 [main] INFO search - wait for 3 seconds

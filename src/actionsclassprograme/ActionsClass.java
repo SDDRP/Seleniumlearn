@@ -16,7 +16,7 @@ public class ActionsClass {
   @Test 
   public void rightclick() throws InterruptedException {
 	  driver.get("http://seleniumlearn.com/");
-	  Thread.sleep(5000);
+	  Thread.sleep(3000);
 	  Actions act=new Actions(driver);
 	  act.contextClick(driver.findElement(By.xpath("//a[normalize-space()='Testing']"))).build().perform();
 	  
